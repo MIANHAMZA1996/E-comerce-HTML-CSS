@@ -1,0 +1,587 @@
+.body
+{
+	background-color: #2D3136;
+}
+.main
+{
+	width: 1300px; 
+	height: 125px;
+	padding-left: 28px;
+	border-bottom: 1px solid #2D3136;
+}
+.header
+{
+	width: 1100px; 
+	height: 130;
+
+}
+.logopic
+{
+	width: 133px; 
+	height:120px;  
+	margin-right: 130px; 
+	margin-left: 5px;
+	margin-top: 05px;  
+	float: left;	
+}
+.logopic1
+{
+	width:118px; 
+	height: 115px;
+}
+.menu
+{
+	width: 1300px; 
+	height: 130; 
+	font-size:25px; 
+	font-family: cursive; 
+	color: #FFFFFF;
+	text-align: left; 
+	padding-top: 50px;
+
+}
+.home
+{
+	color: #FFFFFF;
+}
+
+.login
+{
+	color: #FFFFFF;
+	float: right;
+	font-size:25px;
+	width: 110px;
+	height: 50px;
+}
+.login1
+{
+	color: #FFFFFF;
+}
+.content1
+{
+	height: 60px; 
+	font-size: 30px; 
+	color: #FFFFFF; 
+	font-family: cursive;
+	margin-top: 20px;
+	padding-left: 28px;
+}
+.title1
+{
+	color: white;
+}
+.img1
+{
+	width: 700px; 
+	height:450px; 
+	background-color: #232323; 
+	float: left;
+    margin-left: 30px;
+}
+.pic
+{
+	width: 700px; 
+	height: 500px;
+}
+.text1
+{
+	width: 570px; 
+	height: 500px; 
+	background-color: #232323; 
+	float: left; 
+	margin-right: 40px;
+	margin-bottom: 50px; 
+	border: 1px solid #FFFFFF;
+}
+.heading1
+{
+	color: #FFFFFF;
+	font-size: 40px; 
+	font-family: cursive;
+	text-align: center;
+}
+.para1
+{
+	color: #FFFFFF; 
+	font-size: 18px; 
+	font-family: cursive; 
+	margin-right: 10px;
+	margin-left: 30px; 
+}
+.content2
+{
+	font-size: 30px;  
+	color: #FFFFFF;   
+	font-family: cursive;
+	padding-bottom: 15px;
+    margin-left: 30px;
+	
+}
+
+.img2
+{
+	width: 700px; 	
+	height:500px; 
+	background-color: green; 
+	float: left;
+    margin-left: 30px;  
+}
+
+.text2
+{
+	width: 570px; 
+	height: 500px; 
+	background-color: #232323; 
+	float: left; 
+	margin-right: 40px;
+	margin-bottom: 50px; 
+	border: 1px solid #FFFFFF;
+}
+.heading2
+{
+	color: #FFFFFF;
+	font-size: 40px; 
+	text-align: center; 
+	font-family: cursive;
+    margin-left: 30px;
+}
+.para2
+{
+	color: #FFFFFF; 
+	font-size: 18px; 
+	margin-left: 30px; 
+	font-family: cursive; 
+	margin-right: 10px;
+}
+.content3
+{
+	font-size: 40px; 
+	padding-top: 80px; 
+	color: #FFFFFF;  
+	font-family: cursive;
+	padding-bottom: 15px;
+    margin-left: 30px;
+}
+.title3
+{
+	font-size: 30px; 
+	padding-bottom: 15px;
+	color: #FFFFFF;  
+	font-family: cursive;
+    margin-left: 30px;
+}
+.img3
+{
+	width: 700px; 
+	height:500px; 
+	background-color: green; 
+	float: left;
+    margin-left: 30px;
+}
+.text3
+{
+	width: 570px; 
+	height: 500px; 
+	background-color: #232323; 
+	float: left; margin-right: 40px; 
+	margin-bottom: 50px; 
+	border: 1px solid #FFFFFF;
+}
+.heading3
+{
+	color: #FFFFFF;	
+	font-size: 40px; 
+	text-align: center; 
+	font-family: cursive;
+}
+.para3
+{
+	color: #FFFFFF; 
+	font-size: 18px; 
+	margin-left: 30px; 
+	font-family: cursive; 
+	margin-right: 10px
+}
+.footer
+{
+	font-size: 15px; 
+  	font-family: all; 
+  	color: #FFFFFF; 
+  	text-align: center; 
+}
+
+.mainabout
+{
+	width: 1300px; 
+	height: 500px;
+	padding-left: 28px;
+	border-bottom: 1px solid #000000;
+
+}
+.search
+{
+	font-size: 30px; 
+	float: left; 
+	margin-left: 40px; 
+	margin-top: 50px; 
+	color: #FFFFFF;
+	font-family: cursive;
+	height: 460px;
+}
+
+/* CONTACT*/
+
+
+* {
+    box-sizing: border-box;
+}
+
+/* Style inputs */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    color: #777773;
+    font-family: cursive;
+    border-bottom: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 15px;
+    resize: vertical;
+    background: transparent;
+
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Style the container/contact section */
+.container {
+    border-radius: 5px;
+    background-color: #2D3136;
+    padding: 10px;
+}
+
+/* Create two columns that float next to eachother */
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+/* LOGIN*/
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: cursive;
+}
+
+.loginbox{
+    width: 320px;
+    height: 460px;
+    background: #2D3136;
+    color: #fff;
+    top: 65%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+.contactimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loginbox p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.loginbox input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.loginbox input[type="username"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 16px;
+}
+.loginbox input[type="loginbutton"]
+{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #1C8ADB;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    text-align: center;
+}
+.loginbox input[type="loginbutton"]:hover
+{
+    cursor: pointer;
+    background: #;
+    color: #000;
+}
+.loginbox a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.loginbox a:hover
+{
+    color: #2D3136;
+}
+
+
+/* SIGNUP*/
+
+ body
+{
+     margin: 0;
+    padding: 0;
+    background: #efefef;
+    font-size: 16px;
+    color: #777;
+    font-family: cursive;
+    font-weight: 300;
+}
+
+#login-boxsignup
+{
+    position: relative;
+    margin: 5% auto;
+    height: 450px;
+    width: 600px;
+    background: #2D3136;
+
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
+}
+
+.left-box
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 500px;     
+}
+
+.bold1
+{
+    margin: 0 5 20px 0;
+    font-weight: 300px;
+    font-size: 30px;
+    color: white;
+    border: none;
+    outline: none;
+    height: 70px;
+    text-align: center;
+    font-family: cursive;
+}
+
+input[type="usernamesignup"],
+input[type="emailsignup"],
+input[type="passwordsignup"]
+
+{
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 4px;
+    width: 220px;
+    height: 32px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #aaa;
+    font-family: cursive;
+    font-weight: 400;
+    font-size: 15px;
+    transition: 0.2s ease;
+    background: transparent;
+}
+
+input[type="submit"]
+{
+     margin-bottom: 0px;
+    width: 120px;
+    height: 49px;
+    background: #1C8ADB;
+    border: none;
+    margin-top: 0px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+    cursor: pointer;
+    
+}
+
+input[type="submit"]:hover,
+input[type="submit"]:focus
+{
+    background: #2D3136;
+    transition: 0.2s ease;
+}
+
+.right-box
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.or
+{
+        position: absolute;
+    top: 180px;
+    left: 280px;
+    width: 40px;
+    height: 40px;
+    font-size: 30px;
+    font-family: cursive;
+    background: #2D3136;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    line-height: 40px;
+    text-align: center;
+
+}
+
+.signinwith
+{
+    display: block;
+    margin-bottom: 40px;
+    font-size: 28px;
+    font-family: cursive;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    border-radius: 100px;
+}
+
+
+.social
+{
+    margin-bottom: 20px;
+    width: 220px;
+    height: 36px;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 500;
+    transition: 0.2s ease;
+    cursor: pointer;
+    border-radius: 20px
+}
+
+.facebook
+{
+    background: #32508e;
+}
+.twitter
+{
+    background: #55acee;
+}
+.google
+{
+    background: #dd4b39;
+}
+
+
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns 
+stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column, input[type=submit] {
+        width: 300px;
+        margin-top: 0;
+    }
+}
+
+
+/*post*/
+
+.blogimg
+{
+    width: 100px;
+}
+/*new*/
+.newpost
+{
+    width: 150px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+    height: 30px;
+    margin-left: 1050px;
+    margin-top: 10px;
+    border-radius: 15px
+    
+}
+
+
+/*create new post*/
+
+.buttonimage
+{
+    border-radius: 50px;
+    margin-bottom: 13px;    
+  
+}
